@@ -15,7 +15,7 @@ $requestUri = strtok($_SERVER['REQUEST_URI'], '?');
 if ($requestUri == '/')  
 {   //Index Section
     $apiversion = "1";
-    $author     = "";           // TODO: Your Battlesnake Username
+    $author     = "Hurrpadurr";           // TODO: Your Battlesnake Username
     $color      = "#888888";    // TODO: Personalize
     $head       = "default";    // TODO: Personalize
     $tail       = "default";    // TODO: Personalize
